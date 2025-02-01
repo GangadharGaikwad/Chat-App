@@ -1,4 +1,3 @@
-/* README.md */
 # Real-Time Chat Application
 
 A simple real-time chat application built with React, Socket.IO, and Express. This application allows users to join a chat room, send messages in real-time, and see who's online.
