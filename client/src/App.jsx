@@ -7,7 +7,7 @@ import ChatRoom from './components/ChatRoom'
 import JoinChat from './components/JoinChat'
 
 // Initialize socket connection
-const socket = io('http://localhost:3000')
+const socket = io('https://chat-app-330d.onrender.com')
 
 function App() {
   const [username, setUsername] = useState('')
